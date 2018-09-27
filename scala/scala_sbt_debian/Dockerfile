@@ -1,4 +1,4 @@
-# Pull open jdk base image based on Debian.
+# Pull open jdk base image based on Debian Linux.
 FROM openjdk:8
 
 # Define ENV variables.
