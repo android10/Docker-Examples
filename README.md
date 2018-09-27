@@ -11,7 +11,8 @@ There are 2 scripts for each image.
 - ```run.sh```: runs the already created docker image locally.
 
 ## Useful links
-Docker cheat sheet: https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes#a-docker-cheat-sheet
+Docker cheat sheet: 
+- https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes#a-docker-cheat-sheet
 
 ## More comming up
 ...
