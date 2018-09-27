@@ -5,6 +5,11 @@ Check https://www.docker.com/ for Docker installation.
 ## Scala + SBT
 There are 2 images in the SCALA FOLDER based on different linux distributions: Debian and Alpine.  
 
+## Building and running sample images
+There are 2 scripts for each image.
+- ```create.sh```: in order to create the image from the Dockerfile.
+- ```run.sh```: runs the already created docker image locally.
+
 ## Useful links
 Docker cheat sheet: https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes#a-docker-cheat-sheet
 
