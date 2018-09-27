@@ -5,6 +5,9 @@ Check https://www.docker.com/ for Docker installation.
 ## Scala + SBT
 There are 2 images in the SCALA FOLDER based on different linux distributions: Debian and Alpine.  
 
+## Useful links
+Docker cheat sheet: https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes#a-docker-cheat-sheet
+
 ## More comming up
 ...
 
